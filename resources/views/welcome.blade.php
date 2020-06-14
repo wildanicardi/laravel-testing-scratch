@@ -80,7 +80,7 @@
             @endif
 
             <div class="content">
-                <a href="">Click Me</a>
+                <a href=""Laravel 7</a>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>

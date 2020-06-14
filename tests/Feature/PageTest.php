@@ -24,6 +24,6 @@ class PageTest extends TestCase
     public function test_welcome_page()
     {
         $response =  $this->get('/');
-        $response->assertSee("Laravel");
+        $response->assertSee("Laravel 7");
     }
 }
